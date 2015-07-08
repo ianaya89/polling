@@ -1,0 +1,24 @@
+body {
+  padding-top: 50px; 
+}
+
+.polls {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: left;
+}
+
+.poll {
+  width: 47%;
+  margin-left: 2%;
+}
+
+.poll-form {
+  border-right: 1px solid #ccc;
+  padding-right: 10px;
+}
+
+footer {
+  padding-right: 50px;
+  padding-bottom: 15px;
+}
